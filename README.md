@@ -1,5 +1,5 @@
 # 👋 Hello world!!!
-### 🔭 I’m currently working in <img src="[https://flagsapi.com/VN/shiny/32.png](https://flagcdn.com/w40/vn.png](https://flagcdn.com/w40/vn.png)"/>
+### 🔭 I’m currently working in <img src="https://flagsapi.com/VN/shiny/32.png"/>
 ### 🌱 I’m currently learning advanced CEH (Certified Ethical Hacker).
 ### 👯 I’m looking to collaborate on open-source projects related to AI and machine learning.
 ### 💬 Ask me about Laravel and Spring Boot.
