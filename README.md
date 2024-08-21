@@ -5,9 +5,9 @@
 ### 💬 Ask me about Laravel and Spring Boot.
 ### 📫 [Email: mdzenos@gmail.com](mailto:mdzenos@gmail.com)
 # ⚡ Quote:
-> "Kein System ist sicher"
-> "Das Proletariat hat nichts zu verlieren als seine Ketten." – Karl Marx
-> "The only thing all humans are equal in is death." – Johan Liebert, *Monster*
+- "Kein System ist sicher"
+- "Das Proletariat hat nichts zu verlieren als seine Ketten." – Karl Marx
+- "The only thing all humans are equal in is death." – Johan Liebert, *Monster*
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
