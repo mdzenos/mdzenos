@@ -1,28 +1,13 @@
 # 👋 Hello world!!!
-### 🔭 I’m currently working on ...
-- A new web application using Laravel for backend and Next.js for frontend.
-
-### 🌱 I’m currently learning ...
-- Advanced TypeScript and cloud computing with AWS.
-
-### 👯 I’m looking to collaborate on ...
-- Open-source projects related to AI and machine learning.
-
-### 🤔 I’m looking for help with ...
-- Integrating various third-party APIs into existing projects.
-
-### 💬 Ask me about ...
-- Laravel, Spring Boot, and modern frontend frameworks.
-
-### 📫 How to reach me: ...
-- [Email: your.email@example.com](mailto:your.email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-
-### 😄 Pronouns: ...
-- He/Him
-
-### ⚡ Fun fact: ...
-- I once built a fully automated bot to manage my social media accounts!
+### 🔭 I’m currently working in ![Vietnam Flag](https://www.countryflags.io/vn/flat/32.png)
+### 🌱 I’m currently learning advanced CEH (Certified Ethical Hacker).
+### 👯 I’m looking to collaborate on open-source projects related to AI and machine learning.
+### 💬 Ask me about Laravel and Spring Boot.
+### 📫 [Email: your.email@example.com](mailto:your.email@example.com)
+### ⚡ Quote:
+> "Kein System ist sicher"
+> "Das Proletariat hat nichts zu verlieren als seine Ketten." – Karl Marx
+> "人間は死んでしまえば平等になる。" – Johan Liebert, *Monster*
 
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -47,6 +32,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdzenos&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
