@@ -26,9 +26,9 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 # 📊 Stats:
-![mdzenos's Stats](https://github-readme-stats.vercel.app/api?username=mdzenos&theme=bear&show_icons=true&hide_border=false&count_private=true)<br/>
-![mdzenos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdzenos&theme=bear&hide_border=false)<br/>
-![mdzenos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzenos&theme=bear&show_icons=true&hide_border=false&layout=compact)<br/>
+![mdzenos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdzenos&theme=solarized-light&show_icons=true&hide_border=false&layout=compact)<br/>
+![mdzenos's Stats](https://github-readme-stats.vercel.app/api?username=mdzenos&theme=solarized-light&show_icons=true&hide_border=false&count_private=true)<br/>
+![mdzenos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdzenos&theme=solarized-light&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mdzenos&theme=radical&no-frame=false&no-bg=false&margin-w=4)
