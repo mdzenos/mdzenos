@@ -1,8 +1,8 @@
 # 👋 Hello world!!!
 ### 🔭 I’m currently working in <img src="https://flagsapi.com/VN/shiny/32.png"/>
-// ### 🌱 I’m currently learning advanced CEH and NextJS
+<!---  ### 🌱 I’m currently learning advanced CEH and NextJS
 // ### 👯 I’m looking to collaborate on open-source projects related to AI and machine learning.
-// ### 💬 Ask me about Laravel and Spring Boot.
+// ### 💬 Ask me about Laravel and Spring Boot. --->
 ### 📫 [Email: mdzenos@gmail.com](mailto:mdzenos@gmail.com)
 # ⚡ Quote:
 - "Kein System ist sicher"
