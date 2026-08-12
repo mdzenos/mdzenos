@@ -3,7 +3,7 @@
 <!---  ### 🌱 I’m currently learning advanced CEH and NextJS
 // ### 👯 I’m looking to collaborate on open-source projects related to AI and machine learning.
 // ### 💬 Ask me about Laravel and Spring Boot. --->
-### 📫 [Email: mdzenos@gmail.com](mailto:mdzenos@gmail.com)
+### 📫 [Email: mdzenoq@gmail.com](mailto:mdzenoq@gmail.com)
 # ⚡ Quote:
 - "Kein System ist sicher"
 - "Das Proletariat hat nichts zu verlieren als seine Ketten." – Karl Marx
